@@ -19,6 +19,3 @@
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
   <img align="center" alt="NextJs" src="https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=nextjs&logoColor=white" /> 
 </div><br/>
-
-## Projeto Brecho Unifor NextJS (WIP)
-https://brechounifor.vercel.app/
