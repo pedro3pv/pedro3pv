@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/pedro3pv)
 
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro3pv&show_icons=true&theme=dracula&count_private=true)
+![Pedro GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/pedro3pv?cardType=level&theme=github-dark&preferLogin=false)
 
 ## Tecnologias que domino!
 
