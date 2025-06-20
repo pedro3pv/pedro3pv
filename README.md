@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-august/)
 
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/pedro3pv)
+![](https://dcbadge.limes.pink/api/shield/335455836593979393)
 
 
 ![Pedro GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/pedro3pv?cardType=level&theme=github-dark&preferLogin=false)
