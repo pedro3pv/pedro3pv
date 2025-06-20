@@ -1,6 +1,6 @@
 ## Heyyy, Pedro Augusto aqui! 🖐️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-august/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro3pv/)
 
 
 ![](https://dcbadge.limes.pink/api/shield/335455836593979393)
